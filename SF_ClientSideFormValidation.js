@@ -1,4 +1,11 @@
-// custom sf form validation mvc
+/* Custom Sitefinity MVC Form Validation with Client Side JavaScript v0.1 --- https://https://github.com/Superhands89/SitefinityClientSideFormValidationMVC
+* 
+*
+* By Paul Dolby (Superhands89) 2019 --- https://github.com/Superhands89/
+*
+* MIT Licence - Free and unrestricted use.
+*/
+
 ~function () {
     'use strict';
 
