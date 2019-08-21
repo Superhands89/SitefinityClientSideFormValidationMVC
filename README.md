@@ -14,7 +14,7 @@ To implement, simply run the code found in the "SF_ClientSideFormValidation.js" 
 
 ## Version Support...
 
-Tested in Sitefinity versions 9 - 12.
+Tested in Sitefinity versions 10 - 12.
 
 ## License...
 
