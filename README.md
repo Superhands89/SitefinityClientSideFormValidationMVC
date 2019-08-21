@@ -10,4 +10,4 @@ Custom form validation for Sitefinity MVC forms using vanilla client side JavaSc
 
 To implement, simply run the code found in the "SF_ClientSideFormValidation.js" file on a page that contains a Sitefinity MVC form. You can even paste it in the Chrome DevTools console on such a page to see it in action.
 
-MIT Licence - Free and unrestricted use.
+*MIT Licence - Free and unrestricted use.*
