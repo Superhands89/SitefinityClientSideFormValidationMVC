@@ -2,7 +2,7 @@
 * Custom form validation for Sitefinity MVC forms using client side JavaScript
 * (includes pattern validation and smooth scrolling to areas that fail validation on form submit)
 *
-* By Superhands89 2019 --- https://github.com/Superhands89/
+* By Superhands89 2020 --- https://github.com/Superhands89/
 *
 * MIT Licence - Free and unrestricted use.
 */
