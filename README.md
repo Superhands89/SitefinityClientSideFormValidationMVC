@@ -20,7 +20,7 @@ Tested in Sitefinity versions 10, 11, 12, 13.
 
 # Commercial License
 
-<p>To use SitefinityClientSideFormValidationMVC on commercial projects, a commercial license is required...</p>
+<p>To use SitefinityClientSideFormValidationMVC on commercial projects, a commercial license is <a href="https://gumroad.com/l/YPPZu" target="_blank">required</a>...</p>
 
 ## Purchase a Commercial License
 
