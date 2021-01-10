@@ -16,8 +16,16 @@ You can even paste it directly in the Chrome DevTools console on a Sitefinity pa
 
 ## Version Support...
 
-Tested in Sitefinity versions 10, 11, 12.
+Tested in Sitefinity versions 10, 11, 12, 13.
 
-## License...
+# Commercial License
 
-*MIT Licence - Free and unrestricted use.*
+<p>To use SitefinityClientSideFormValidationMVC on commercial projects, a commercial license is required...</p>
+
+## Extended Commercial License
+
+<p>This license grants you to use SitefinityClientSideFormValidationMVC for an unlimited amount of projects for commercial use. Purchase a one-off extended commercial license <a href="https://gumroad.com/l/YPPZu" target="_blank">here</a>. ($49 exc. VAT - Includes free support)</p>
+
+# Open Source License
+
+<p>If your application is open source and under a GNU GPL v3 compatible license, then you can use easyScrollDots without a commercial license.</p>
