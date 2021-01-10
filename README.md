@@ -1,7 +1,7 @@
 # SitefinityClientSideFormValidationMVC
 Custom form validation for Sitefinity MVC forms using vanilla client side JavaScript.
 
-## Includes...
+## Features...
 
 * Validation of all fields and inputs at once, thus removing the need to rely on HTML5 validation of each field individually
 * Pattern validation for email and number fields etc.
