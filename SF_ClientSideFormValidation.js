@@ -1,10 +1,11 @@
-/* Custom Sitefinity MVC Form Validation with Client Side JavaScript v1.0 --- https://https://github.com/Superhands89/SitefinityClientSideFormValidationMVC
+/* Custom Sitefinity MVC Form Validation with Client Side JavaScript v1.1 --- https://https://github.com/Superhands89/SitefinityClientSideFormValidationMVC
 * Custom form validation for Sitefinity MVC forms using client side JavaScript
 * (includes pattern validation and smooth scrolling to areas that fail validation on form submit)
 *
-* By Superhands89 2020 --- https://github.com/Superhands89/
+* By Superhands89 2020-2021 --- https://github.com/Superhands89/
 *
-* MIT Licence - Free and unrestricted use.
+* GPLv3 Licence for open source use only
+* or purchase an Extended Commercial License at https://gumroad.com/l/YPPZu
 */
 
 ~function () {
