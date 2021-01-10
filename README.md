@@ -24,7 +24,7 @@ Tested in Sitefinity versions 10, 11, 12, 13.
 
 ## Purchase a Commercial License
 
-<p>This license grants you to use SitefinityClientSideFormValidationMVC for an unlimited amount of projects, and for commercial use. Purchase a one-off extended commercial license **<a href="https://gumroad.com/l/YPPZu" target="_blank">here</a>**. ($49 exc. VAT - Includes free support)</p>
+<p>This license grants you to use SitefinityClientSideFormValidationMVC for an unlimited amount of projects, and for commercial use. Purchase a one-off extended commercial license <a href="https://gumroad.com/l/YPPZu" target="_blank">__here__</a>. ($49 exc. VAT - Includes free support)</p>
 
 # Open Source License
 
